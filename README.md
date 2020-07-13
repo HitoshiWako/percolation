@@ -1,0 +1,2 @@
+# percolation
+パーコレーションの基本原理をJuliaでやってみる
